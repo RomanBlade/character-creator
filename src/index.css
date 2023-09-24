@@ -30,3 +30,33 @@ body {
   padding: 0;
   border: 0;
 }
+
+a:link {
+  color:white;
+}
+a:visited {
+  color:wheat;
+}
+
+.CharacterEditor_header__9cKuq {
+  /* background-color: aqua; */
+  width: 65%;
+}
+
+.CharacterEditor_controlColumn__PVLcC {
+  /* background-color: darkorange; */
+  width:50%;
+}
+
+.ButtonRow_buttonRow__\+ECR8 {
+  /* background-color: aquamarine; */
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.Character_character__lTevI {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  min-height: 500px;
+}
