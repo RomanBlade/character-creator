@@ -39,6 +39,7 @@ function App() {
           </p>
         </header>
         <div className={styles.controlColumn}>
+          <div className='perspective_bar'></div>
           <ControlPane
             title="Bodies"
             options={bodyOptions}
